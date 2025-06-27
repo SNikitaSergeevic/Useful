@@ -5,7 +5,7 @@
 - [Interactive Educational Data Science Python Dashboards](https://github.com/GeostatsGuy/DataScienceInteractivePython)
 - [Guided notebooks to prep data, train, evaluate, and save your model](https://github.com/unslothai/notebooks)
 ### ML
--[Pushing the Limits of Large Language Model Quantization
+- [Pushing the Limits of Large Language Model Quantization
 via the Linearity Theorem](https://arxiv.org/pdf/2411.17525)
 ### Algorithms
 - [The Algorithms](https://github.com/TheAlgorithms)
