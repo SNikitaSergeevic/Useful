@@ -12,4 +12,6 @@ via the Linearity Theorem](https://arxiv.org/pdf/2411.17525)
 ### Other
 - [Collection of various materials and tools](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Python snippets](https://github.com/x4nth055/pythoncode-tutorials)
-- [SQL_sheets](common/All-sql-cheat-sheet-a4.pdf)
+- [SQL sheets](common/All-sql-cheat-sheet-a4.pdf)
+- [100+ Best System Design Resources for Interview and Learning](https://github.com/javabuddy/best-system-design-resources)
+- [Git sheets](common/Git.cheatsheets.pdf)
